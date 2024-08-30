@@ -4,3 +4,5 @@ The reason to use the typescript is, it gives the type safety to the javascript 
 Typescript is basically a developement tool nothing more than that. The code which we have wtitten inside the typescript that eventually
 get transpiled into a javascript code because the TS code browser does not understand. It is a wrapper around the JS so that while writing
 a code we can see the probable errors there only.
+
+command used to convert TS code into a JS code- tsc fileName.ts
